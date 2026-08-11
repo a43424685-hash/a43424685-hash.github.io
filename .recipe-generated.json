@@ -2,6 +2,10 @@
   "files": [
     ".nojekyll",
     "404.html",
+    "assets/recipes/dak-gasumsal/hero.jpg",
+    "assets/recipes/dak-gasumsal/product-1.jpg",
+    "assets/recipes/dak-gasumsal/product-2.jpg",
+    "assets/recipes/dak-gasumsal/product-3.jpg",
     "index.html",
     "r/dak-gasumsal/index.html",
     "recipes.json",
